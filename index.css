@@ -1,0 +1,78 @@
+.styleTil {
+  display: flex;
+  justify-content: center;
+}
+.title {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 50px;
+  background-color: rgb(195, 206, 206);
+  min-width: 100vh;
+}
+#ville {
+  margin-top: 12%;
+}
+#button {
+  align-items: center;
+  text-align: center;
+  margin-left: 15px;
+
+  background: #fdfcfc;
+  box-shadow: 6px 6px 12px #989797, -6px -6px 12px #ffffff;
+}
+.forS {
+  display: flex;
+  flex-direction: row;
+  padding-top: 25px;
+  margin-left: 40%;
+}
+
+#labelVille {
+  margin-right: 25px;
+}
+
+.affichage {
+  display: flex;
+  justify-content: center;
+  font-size: 25px;
+  text-align: center;
+  padding-bottom: 55px;
+  margin-bottom: 50px;
+}
+.direc {
+  margin-top: 25px;
+  width: 500px;
+  height: 250px;
+  border-radius: 9px;
+  background: #fdfcfc;
+  box-shadow: 6px 6px 12px #989797, -6px -6px 12px #ffffff;
+}
+.place {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+/*-------------------------------------*/
+
+.affich {
+  padding-left: 12%;
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+}
+.direct {
+  margin: 20px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  width: 300px;
+  height: 250px;
+  border-radius: 9px;
+  background: #fdfcfc;
+  box-shadow: 6px 6px 12px #989797, -6px -6px 12px #ffffff;
+}
+.puce {
+  list-style-type: none;
+}
